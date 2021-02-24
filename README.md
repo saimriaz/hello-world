@@ -1,2 +1,3 @@
 # hello-world
-My initial repository where I will contain information about myself.
+
+This is my initial repository where I will put information about myself.
